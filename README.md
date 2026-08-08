@@ -38,6 +38,10 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/cf11dca7-9aa2-4b4c-82a2-1a429047ab21" />
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -50,7 +54,6 @@ Specifying the context and requirements of a system
 
 
 
-<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/cf11dca7-9aa2-4b4c-82a2-1a429047ab21" />
 
 
 
@@ -79,7 +82,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
-<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/16b10bb0-2757-49af-999f-94b883aa04c0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c582c0eb-55c3-439c-9f98-ed448f084404" />
 
 
 # PACKAGE DIAGRAM:
